@@ -13,3 +13,4 @@ supports 'ubuntu', '>= 12.04'
 
 depends 'apt'
 depends 'modules'
+depends 'iptables', '= 1.1.0'
